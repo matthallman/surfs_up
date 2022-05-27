@@ -7,10 +7,11 @@ Software: SQLite, Python, Flask, Jupyter Notebook
 
 ### Deliverable 1
 Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
-
+![June](https://github.com/matthallman/surfs_up/blob/main/resources/june.png)
 
 ### Deliverable 2
 Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
+![December](https://github.com/matthallman/surfs_up/blob/main/resources/december.png)
 
 ### Deliverable 3
 For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
