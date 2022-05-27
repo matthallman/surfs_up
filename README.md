@@ -1,4 +1,4 @@
-# surfs_up
+# Week 9 Challenge Surfs Up
 
 Advanced Data Storage and Retrieval with Jupyter Notebook, SQLite & SQLAchemy.
 
